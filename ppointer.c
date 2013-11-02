@@ -1,5 +1,4 @@
-/*pointers try by ashwin...was bored ...
-so tried some basic pointer stuff has some pointer tweaks which tries diff methods to get an array into place..in the order seen below*/
+/*Pointer Dereferencing stuff by ashwin*/
 #include<stdio.h>
 #include<stdlib.h>
 
