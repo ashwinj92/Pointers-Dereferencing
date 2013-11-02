@@ -1,4 +1,4 @@
-/*Pointer Dereferencing stuff by ashwin*/
+/*Pointer Dereferencing stuff */
 #include<stdio.h>
 #include<stdlib.h>
 
